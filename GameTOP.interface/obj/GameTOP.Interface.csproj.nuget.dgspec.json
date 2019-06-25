@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\supero\\Documents\\Cursos\\DotNet\\GameTOP.interface\\GameTOP.interface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\supero\\Documents\\Cursos\\DotNet\\GameTOP.interface\\GameTOP.interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\supero\\Documents\\Cursos\\DotNet\\GameTOP.interface\\GameTOP.interface.csproj",
+        "projectName": "GameTOP.interface",
+        "projectPath": "C:\\Users\\supero\\Documents\\Cursos\\DotNet\\GameTOP.interface\\GameTOP.interface.csproj",
+        "packagesPath": "C:\\Users\\supero\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\supero\\Documents\\Cursos\\DotNet\\GameTOP.interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\supero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

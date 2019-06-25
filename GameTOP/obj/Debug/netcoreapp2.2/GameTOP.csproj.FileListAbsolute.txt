@@ -1,0 +1,16 @@
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.deps.json
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.json
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.runtimeconfig.dev.json
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.dll
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.pdb
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csprojAssemblyReference.cache
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csproj.CoreCompileInputs.cache
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfoInputs.cache
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.AssemblyInfo.cs
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.dll
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.pdb
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Interface.dll
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Lib.dll
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Lib.pdb
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\bin\Debug\netcoreapp2.2\GameTOP.Interface.pdb
+C:\Users\supero\Documents\Cursos\DotNet\GameTOP\obj\Debug\netcoreapp2.2\GameTOP.csproj.CopyComplete
